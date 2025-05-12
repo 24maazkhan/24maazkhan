@@ -1,5 +1,10 @@
 ## Hi there 👋
 
+- 🌱 I’m currently learning data structures and algorithms in C++
+- 👯 I’m looking to collaborate on interesting and innovative programming challenges.
+- 🌐 Check out my projects at my portfolio: https://24maazkhan.github.io
+- 🔗 Reach me at https://www.linkedin.com/in/maazkhan4
+
 <!--
 **24maazkhan/24maazkhan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
